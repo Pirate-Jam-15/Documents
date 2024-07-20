@@ -1,0 +1,25 @@
+Genre : RPG(System combat, ...), Rouge-like ? Rouge-lite => Rouge-like, 
+Lore : true => Narative story => (Minor lore): World Setting
+Theme : Shadows: A cult; Alchemy: Human experiment => gore 
+General Philosophy: (Nihilism: Everything is meaningless, there is only the void that exist and remain till the end of time)
+Details: {
+    'The world is set in the  medivial country where practice of science just emerged, in it's core is the golden age of the philosophy and practices of alchemy,
+    'to be an alchemist in this epoch is to be a person of high renown, respected, and having access to the highest benefits of society. Becoming an alchemist 
+    'is the goal and dream of every citizen under the Imperium flag. They are embodiment of perfection, as angel beside god. But in reality, in order to become 
+    'an alchemist is an arduoist process, beside the massive amount of knowledge one must posses, they must also have the afinity to see soul of everything around them,
+    'like a gift from god to not only view the essence of his craft, but modified it, twinkle it, changed it completely. However, god is nowhere near an entiy that give 
+    'his love. Every alchemist, no matter how proficient they be in their craft, no matter how much dedication that they put into their work, they can only seen an imperfect
+    'representation of soul, they can only touch it slightly, modified it slightly, but can never ever reach the perfect soul, they become an artist who can only draw imperfection.
+    'No one know why, like a reminder of god that we can never reached him, a gift now become the curse. Alchemists are left in a dormant state of perfectionism, they try to do 
+    'everything, try anything and willingly force everything to achieve perfection. 
+}
+
+Character: {
+    Idealist who do things the way he envisioned, only in the end, the absolute ideal is bad and everything fuckity-fuck,
+    Philosophy (Ideal world)
+}
+
+
+Map: Fear and hunger like 2D Top down-ish
+
+

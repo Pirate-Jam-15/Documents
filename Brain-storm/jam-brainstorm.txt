@@ -1,4 +1,5 @@
 Genre : RPG(System combat, ...), Rouge-like ? Rouge-lite => Rouge-like, 
+Main mechanic: Turn-base, Exploration Platformer
 Lore : true => Narative story => (Minor lore): World Setting
 Theme : Shadows: A cult; Alchemy: Human experiment => gore 
 General Philosophy: (Nihilism: Everything is meaningless, there is only the void that exist and remain till the end of time)
@@ -11,15 +12,29 @@ Details: {
     'his love. Every alchemist, no matter how proficient they be in their craft, no matter how much dedication that they put into their work, they can only seen an imperfect
     'representation of soul, they can only touch it slightly, modified it slightly, but can never ever reach the perfect soul, they become an artist who can only draw imperfection.
     'No one know why, like a reminder of god that we can never reached him, a gift now become the curse. Alchemists are left in a dormant state of perfectionism, they try to do 
-    'everything, try anything and willingly force everything to achieve perfection. 
+    'everything, try anything and willingly force everything to achieve perfection. However, there's lie a legend of an artifact of god, a single source of truth that can reveal the 
+    'true nature of everything - The legend of a philosopher's stone - The legends is so popular that every alchemist goal is to find it. They yearn for it, thirst for it, and willingly
+    'do everything so far as ripped off their humanity and start taking dark approaches by starting to implement their touch to the human souls. The end is nigh, but not all of alchemist
+    'in the society believe that that is the way. Rather they start approaching matter on how to achieve the philosopher stone on a more religious approach. They believe that if
+    'they submit to god, and show him that they are lesser and willing to do anything for him, he will shed his knowledge onto them and grant them perfection. A hidden conflict arise
+    'amongst alchemist, forcing them to split into 2 side. 2 secrets society emerged and drifting the world to a more darker path. 
 }
 
 Character: {
-    Idealist who do things the way he envisioned, only in the end, the absolute ideal is bad and everything fuckity-fuck,
-    Philosophy (Ideal world)
+    Idealist who do things the way he envisioned, only in the end, the absolute ideal is bad and everything fuckity-fuck, 
+    Details : {
+        Name: 
+        Age: 20
+        Background: {
+            'A citizen in the Imperium that just got promoted to the ranks of Alchemist. He yearn for this position since he was a boy. He don't know the inner working of the 
+            'Alchemist world. Provided with everything he asked, he join the great Magnum Opus Academy for further progressing his crafts. On his first day of cleaning and 
+            'preparing his lab, he come across a journal of an old alchemist who used to work here, in the book is the instruction to brew potions, info on some herbs and 
+            'a note of the philosopher stone theory.
+        }
+    }
+    Philosophy (ideal world): Workaholic who work 12 hours a day and then 16 hours more to learn alchemy. To find the essence of becoming a master in the fields
 }
 
 
 Map: Fear and hunger like 2D Top down-ish
-
 
